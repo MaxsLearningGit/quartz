@@ -1,0 +1,1 @@
+pick a target (subject), stockpile info, Organize, Consume/Understand, CONNECT TO OLD INFO, experiment, and then solidify. 

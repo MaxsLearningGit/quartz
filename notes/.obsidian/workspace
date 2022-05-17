@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "8c146b380f611dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7f29b200fe82ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Journal/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c4f98d3fe6ec552",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7e3977b1e95c65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b6c7fb3196c81c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5387ce28bceb4892",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mix",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e1fb64a6aabecb8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343
+  },
+  "right": {
+    "id": "6070a64ea2f478ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddf7d7c297bdd797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d13319c86317bcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4682d1caa867b1a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c89d680dadc5e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d19edeb70600c55",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9518bcd3fb1b456",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269
+  },
+  "active": "6c7f29b200fe82ff",
+  "lastOpenFiles": [
+    "Journal/Untitled.md",
+    "Journal/Journal Date 5-11-2022.md",
+    "Journal/Journal  Date 4-6-22.md",
+    "Journal/Journal  Date 4-13-22.md",
+    "Journal/Journal Date 5-01-2022.md",
+    "Journal/Journal  Date 5-6-22.md",
+    "Nicole Van Der Hoeven Notes/Second Brain Idea - Nicole van der Hoeven.md",
+    "001 Websites and Resources/List to Keep Me Organized =).md",
+    "001 Websites and Resources/Sites/Education Complete Guide.md",
+    "000 Maps of Content/000 Homepage.md"
+  ]
+}
